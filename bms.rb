@@ -61,4 +61,4 @@ while(1)
 	end
 	sleep(1.minutes)
 end
-<ruby>
+
