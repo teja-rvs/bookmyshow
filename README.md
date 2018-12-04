@@ -3,8 +3,8 @@ This is a script to recieve a <b>desktop notification(UBUNTU) and email</b> when
 
 <H1>Requirements</H1>
 <UL>
-  <LI>The link of the webpage you want to book tickets</LI>
-  <LI>The names of theatre as in bookmyshow site</LI>
-  <LI>A Gmail account to send Emails</LI>
+  <LI>The link of the webpage you want to book tickets (<b>MOVIE_LINK</b>)</LI>
+  <LI>The names of theatre as in bookmyshow site (<b>REQUIRED_THEATRES</b>)</LI>
+  <LI>A Email account to send Emails</LI>
   <LI>The Email Account you want to recieve Email</LI>
 </UL>
