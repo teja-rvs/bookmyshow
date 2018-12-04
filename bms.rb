@@ -15,9 +15,9 @@ class Theatre <
 end
 
 # ADD THE LINK OF THE DAY OF THE MOVIE
-# SAMPLE
+# EXAMPLE
 # MOVIE_LINK = "https://in.bookmyshow.com/buytickets/nota-hyderabad/movie-hyd-ET00083360-MT/20181005" 
-MOVIE_LINK = []
+MOVIE_LINK = ""
 
 while(1)
 	doc = Nokogiri::HTML(open(MOVIE_LINK))
