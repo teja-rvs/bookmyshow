@@ -1,4 +1,3 @@
-<`ruby>
 #!/usr/bin/env ruby
 
 require 'nokogiri'
