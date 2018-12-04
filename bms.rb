@@ -1,3 +1,4 @@
+<`ruby>
 #!/usr/bin/env ruby
 
 require 'nokogiri'
@@ -60,3 +61,4 @@ while(1)
 	end
 	sleep(1.minutes)
 end
+<ruby>
